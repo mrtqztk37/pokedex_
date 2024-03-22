@@ -3,5 +3,4 @@
 - Html,Css ve JS kullanılarak yazılmıştır.
 
 ## Gif
-# pokedex
-# pokedex_
+<img src="pokedex.gif"/>
